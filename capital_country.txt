@@ -1,0 +1,11 @@
+London	Great Britan
+Moscow	Russia
+Paris	France
+Vienna	Austria
+Prague	Czech Republic
+Tirana	Albania
+Minsk	Byelorussia
+Zagreb	Croatia
+Copenhagen	Denmark
+Tallinn	Estonia
+Helsinki	Finland

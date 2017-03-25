@@ -1,0 +1,32 @@
+﻿Построение начато 3/25/2017 10:45:23 AM.
+     1>Проект "F:\Programming\Projects\capitals v.15\capitals\capitals.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\capitals.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         F:\Visual studio 2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt countries.cpp main.cpp sights.cpp utility.cpp
+         countries.cpp
+     1>countries.cpp(19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         main.cpp
+         sights.cpp
+     1>sights.cpp(24): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         utility.cpp
+     1>utility.cpp(58): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>utility.cpp(75): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+       Link:
+         F:\Visual studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Programming\Projects\capitals v.15\Release\capitals.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\capitals.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Programming\Projects\capitals v.15\Release\capitals.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Programming\Projects\capitals v.15\Release\capitals.lib" /MACHINE:X86 Release\countries.obj
+         Release\main.obj
+         Release\sights.obj
+         Release\utility.obj
+         Создание кода
+         Создание кода завершено
+         capitals.vcxproj -> F:\Programming\Projects\capitals v.15\Release\capitals.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\Programming\Projects\capitals v.15\Release\capitals.exe;#1" /manifest Release\capitals.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\capitals.unsuccessfulbuild" удаляется.
+         Обращение к "Release\capitals.lastbuildstate".
+     1>Построение проекта "F:\Programming\Projects\capitals v.15\capitals\capitals.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.51

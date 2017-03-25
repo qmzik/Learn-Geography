@@ -1,0 +1,7 @@
+﻿  sights.cpp
+c:\users\никита\desktop\capitals v.14\capitals\sights.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  countries.cpp
+c:\users\никита\desktop\capitals v.14\capitals\countries.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  capitals.vcxproj -> C:\Users\Никита\Desktop\capitals v.14\Debug\capitals.exe
+  capitals.vcxproj -> C:\Users\Никита\Desktop\capitals v.14\Debug\capitals.pdb (Full PDB)
